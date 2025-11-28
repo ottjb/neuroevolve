@@ -1,12 +1,12 @@
 BLOB_DIRS = {
-    0: "[blue]🡹",
-    1: "[blue]🡽",
-    2: "[blue]🡺",
-    3: "[blue]🡾",
-    4: "[blue]🡻",
-    5: "[blue]🡿",
-    6: "[blue]🡸",
-    7: "[blue]🡼"
+    0: "🡹",
+    1: "🡽",
+    2: "🡺",
+    3: "🡾",
+    4: "🡻",
+    5: "🡿",
+    6: "🡸",
+    7: "🡼"
 }
 
 DIR_MOVEMENTS = {
@@ -21,7 +21,7 @@ DIR_MOVEMENTS = {
 }
 
 FOOD = "[green bold]⬤[/]"
-EMPTY = "●"
-
-WIDTH = 10
-HEIGHT = 10
+EMPTY = " "
+#●
+WIDTH = 25
+HEIGHT = 25
